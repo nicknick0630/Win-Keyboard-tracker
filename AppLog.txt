@@ -1,0 +1,78 @@
+[2018-08-13 11-32-19]
+Hook started... Timer started
+
+[2018-08-13 11-32-38]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-32-38]
+<From Send Mail> Return code : -858993460
+
+[2018-08-13 11-32-56]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-33-14]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-33-33]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-33-51]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-34-10]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-34-28]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-34-46]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-35-05]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-35-23]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-35-42]
+Mail was not sent! Errpr code : 0
+
+[2018-08-13 11-38-56]
+Hook started... Timer started
+
+[2018-08-13 11-39-15]
+<From Send Mail> Return code : -858993460
+
+[2018-08-13 15-50-40]
+Hook started... Timer started
+
+[2018-08-13 15-50-59]
+<From Send Mail> Return code : -858993460
+
+[2018-08-13 15-55-55]
+Hook started... Timer started
+
+[2018-08-13 15-56-14]
+<From Send Mail> Return code : -858993460
+
+[2018-08-14 14-03-08]
+Hook started... Timer started
+
+[2018-08-14 14-03-28]
+<From Send Mail> Return code : -858993460
+
+[2018-08-14 14-04-06]
+Hook started... Timer started
+
+[2018-08-14 14-04-25]
+<From Send Mail> Return code : -858993460
+
+[2018-08-14 14-07-30]
+Hook started... Timer started
+
+[2018-08-14 14-07-49]
+<From Send Mail> Return code : -858993460
+
+[2018-09-01 23-54-54]
+Hook started... Timer started
+
